@@ -8,5 +8,7 @@ Had to search quite a lot online for a way to format the fstrings (excluding zer
 
 ## Reflections:
 ✨I often feel that some deeper Math knowledge would help a lot.
+
 ✨I feel I get "smarter" after every exercise I solve. I builds up.
+
 ✨I suppose I will eventually be able to organise my code better with practice.
